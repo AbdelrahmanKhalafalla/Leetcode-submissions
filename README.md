@@ -16,4 +16,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/AbdelrahmanKhalafalla/Leetcode-submissions/tree/main/MySQL/Easy/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/AbdelrahmanKhalafalla/Leetcode-submissions/tree/main/MySQL/Medium/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/AbdelrahmanKhalafalla/Leetcode-submissions/tree/main/MySQL/Hard/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/AbdelrahmanKhalafalla/Leetcode-submissions/tree/main/MySQL/Easy/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
